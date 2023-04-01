@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("helloffg\n");
+    printf("hellokoci\n");
     return 0;
 }
